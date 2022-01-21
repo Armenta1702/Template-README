@@ -30,14 +30,14 @@
 ## Componentes
 > Espécificación de accion de cada componente en la aplicación
 
-* [Componnetes](https://raw.githubusercontent.com/Armenta1702/Template-README/master/logoG3Ingenieria.jpeg "title text!")
+* [Componnetes](https://github.com/Armenta1702/Template-README/blob/master/Componentes.md "title text!")
 
 
 
 ## Procesos
 > Espécificación de realización de cada proceso
 
-* [Procesos](https://raw.githubusercontent.com/Armenta1702/Template-README/master/logoG3Ingenieria.jpeg "title text!")
+* [Procesos](https://github.com/Armenta1702/Template-README/blob/master/Procesos.md "title text!")
 
 
 # Contactanos
